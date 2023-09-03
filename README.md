@@ -1,4 +1,12 @@
-# [Wiki](https://github.com/sayymon/sayymon/wiki)
+# Bem vindo ✌️
+Conheça a minha 😄 [Wiki](https://github.com/sayymon/sayymon/wiki)
+
+# Contatos e Redes sociais : 
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saymonsantos/)](https://www.linkedin.com/in/saymonsantos)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sayymon.silva@gmail.com)](mailto:sayymon.silva@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/saymon.silva.503)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sayymonsss/)
 
 <!--
 **sayymon/sayymon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
