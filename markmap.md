@@ -84,7 +84,18 @@ markmap: {}
   - Grafos
   - Mapas(Hash Tables)
 - Recursão
-- Grafo
+  - Direta
+    - Fatorial
+    - Fibonacci
+    - Nós de uma Arvore
+  - Indireta
+    - Ordenação por Inserção
+    - Pesquisa Binária
+    - Calculo de Potências
+  - Mutua
+    - Expressões Regulares(Regex)
+    - Compiladores
+- Grafos
   - Dijkstra
   - Bellman-Ford
 - Criptografia
@@ -94,8 +105,29 @@ markmap: {}
   - Elíptica
   - Homomórfica
 - Compressão
+  - Sem perdas (Lossless)
+     - ZIP
+       - LZW
+       - Deflate
+       - Gzip
+     - RAR
+       - PPMd
+     - Zlib
+     - Brotli
+  - Com perdas (Lossy)
+     - JPEG (Joint Photographic Experts Group)
+     - MPEG (Moving Picture Experts Group)
+     - MP3 (MPEG-1 Audio Layer III)
 - Descompressão
-
+  - Paralela
+  - Progressiva
+  - Adaptativa
+  - Streaming
+  - Cenarios
+    - Redes
+    - Bancos de Dados
+    - Sistemas Embarcados
+    - Aplicativos Móveis
 ##### Versionamento
 ##### Bancos de Dados
 ##### Frameworks e Bibliotecas
