@@ -39,11 +39,91 @@ markmap: {}
     - [Engenharia de Software : FIAP (2016 - 2018)](https://github.com/sayymon/sayymon/wiki/P%C3%B3s-Gradua%C3%A7%C3%B5es#engenharia-de-software)
     - [Arquitetura de Software : UNICIV (2021 - 2022)](https://github.com/sayymon/sayymon/wiki/P%C3%B3s-Gradua%C3%A7%C3%B5es#arquitetura-de-software-2)
 
+## Experiência Profissional
+### [Telemensagem Toque de Corações (2002 - 2005)](https://github.com/sayymon/sayymon/wiki/Experiencia_Profissional#telemensagem-toque-de-cora%C3%A7%C3%B5es-2002---2005)
+### [Antonio Obras (2006-2007)](https://github.com/sayymon/sayymon/wiki/Experiencia_Profissional#antonio-obras-2006-2007)
+### [Dutra Maquinas (2008-2010)](https://github.com/sayymon/sayymon/wiki/Experiencia_Profissional#dutra-maquinas-2008-2010)
+### [Meta Consultoria de Software (2010-2012)](https://github.com/sayymon/sayymon/wiki/Experiencia_Profissional#dutra-maquinas-2008-2010)
+### [Porto Seguro (2012-2021)](https://github.com/sayymon/sayymon/wiki/Experiencia_Profissional#dutra-maquinas-2008-2010)
+  - [CDS](https://github.com/sayymon/sayymon/wiki/Experiencia_Profissional#cds)
+  - [Sistemas Automovel](https://github.com/sayymon/sayymon/wiki/Experiencia_Profissional#sistemas-automovel)
+  - [Reestruturação Sistemas Automóvel / Auto 2.0](https://github.com/sayymon/sayymon/wiki/Experiencia_Profissional#reestrutura%C3%A7%C3%A3o-sistemas-autom%C3%B3vel--auto-20)
+  - [Squad de DevSecOps](https://github.com/sayymon/sayymon/wiki/Experiencia_Profissional#squad-de-devsecops)
+  - [Time de Qualidade de Software](https://github.com/sayymon/sayymon/wiki/Experiencia_Profissional#time-de-qualidade-de-software)
+  - [System Team e Qualidade Auto 2.0](https://github.com/sayymon/sayymon/wiki/Experiencia_Profissional#system-team-e-qualidade-auto-20)
+### [Hotmart (2021)](https://github.com/sayymon/sayymon/wiki/Experiencia_Profissional#hotmart-2021)
+  - [Squad Switch](https://github.com/sayymon/sayymon/wiki/Experiencia_Profissional#squad-switch)
+  - [API Foundation](https://github.com/sayymon/sayymon/wiki/Experiencia_Profissional#api-foundation)
+  - [Foundation Components](https://github.com/sayymon/sayymon/wiki/Experiencia_Profissional#foundation-components)
+
 ## Conhecimentos
 
 ### Engenharia de Software
 #### Engenharia de Requisitos
-##### Modelagem de Negócios
+##### Modelagem de Requisitos
+- UML (Linguagem de Modelagem Unificada)
+  - Elementos
+  - Diagramas
+    - Atividades
+    - Casos de Uso
+    - Estado
+    - Classes
+    - Sequencia
+- DFD (Diagramas de Fluxo de Dados)
+  - Entidades Externas
+  - Processos
+  - Armazem de Dados
+  - Fluxo de Dados
+  - Tipos de DFD's
+    - Contexto
+    - Niveis 0 e n
+##### Elicitação de Requisitos
+- Backlog Product
+- Sprint Planning
+- Entrevistas com stakeholders
+- Questionários com os usúarios finais
+- WorkShops com os times e responsáveis
+ - Brainstorm
+ - MindMaps
+- Observabilidade no ambiente
+- Prototipagem interativa
+
+##### Especificação de Requisitos
+- Compreender o contexto 
+  - Objetivos 
+  - Mapeamento de necessidades
+  - Definição de escopo
+- Refinamento dos Requisitos
+  - Descrever e exemplificar de forma detalhada
+  - Priorizar e mapear dependencias
+  - Validação de viabilidade
+    -  Requisitos Funcionais 
+    -  Requisitos não funcionais
+- Documentar 
+  - Regras de Negócio
+  - Notas Técnicas
+  
+##### Gerenciamento de Requisitos
+- Monitoramento
+  - Metricas de Satisfação
+    - Net Promoter Score (NPS)
+    - Customer Satisfaction Score (CSAT)
+    - Customer Effort Score (CES)
+  - Metricas de Performance
+  - Metricas de Custo
+  - Features
+    - Número de features
+    - Tempo de ciclo de desenvolvimento
+    - Velocity
+    - Burn Down Chart
+    - Technical debt
+- Controle de Mudanças
+  - Análise de Impacto
+  - Rastreamento de mudanças
+  - Gerenciamento de Riscos
+  - Sprint Review
+  - Sprint Retrospective
+
 #### Arquitetura de Sistemas
 #### Desenvolvimento de Software
 ##### Linguagens de Programação
@@ -157,20 +237,3 @@ markmap: {}
 ### Ciências Humanas
 ### Ciências Sociais Aplicadas
 ### Desenvolvimento Pessoal
-
-## Experiência Profissional
-### [Telemensagem Toque de Corações (2002 - 2005)](https://github.com/sayymon/sayymon/wiki/Experiencia_Profissional#telemensagem-toque-de-cora%C3%A7%C3%B5es-2002---2005)
-### [Antonio Obras (2006-2007)](https://github.com/sayymon/sayymon/wiki/Experiencia_Profissional#antonio-obras-2006-2007)
-### [Dutra Maquinas (2008-2010)](https://github.com/sayymon/sayymon/wiki/Experiencia_Profissional#dutra-maquinas-2008-2010)
-### [Meta Consultoria de Software (2010-2012)](https://github.com/sayymon/sayymon/wiki/Experiencia_Profissional#dutra-maquinas-2008-2010)
-### [Porto Seguro (2012-2021)](https://github.com/sayymon/sayymon/wiki/Experiencia_Profissional#dutra-maquinas-2008-2010)
-  - [CDS](https://github.com/sayymon/sayymon/wiki/Experiencia_Profissional#cds)
-  - [Sistemas Automovel](https://github.com/sayymon/sayymon/wiki/Experiencia_Profissional#sistemas-automovel)
-  - [Reestruturação Sistemas Automóvel / Auto 2.0](https://github.com/sayymon/sayymon/wiki/Experiencia_Profissional#reestrutura%C3%A7%C3%A3o-sistemas-autom%C3%B3vel--auto-20)
-  - [Squad de DevSecOps](https://github.com/sayymon/sayymon/wiki/Experiencia_Profissional#squad-de-devsecops)
-  - [Time de Qualidade de Software](https://github.com/sayymon/sayymon/wiki/Experiencia_Profissional#time-de-qualidade-de-software)
-  - [System Team e Qualidade Auto 2.0](https://github.com/sayymon/sayymon/wiki/Experiencia_Profissional#system-team-e-qualidade-auto-20)
-### [Hotmart (2021)](https://github.com/sayymon/sayymon/wiki/Experiencia_Profissional#hotmart-2021)
-  - [Squad Switch](https://github.com/sayymon/sayymon/wiki/Experiencia_Profissional#squad-switch)
-  - [API Foundation](https://github.com/sayymon/sayymon/wiki/Experiencia_Profissional#api-foundation)
-  - [Foundation Components](https://github.com/sayymon/sayymon/wiki/Experiencia_Profissional#foundation-components)
