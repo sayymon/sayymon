@@ -82,6 +82,7 @@ markmap: {}
  - MindMaps
 - Observabilidade no ambiente
 - Prototipagem interativa
+- Engenharia reversa
 
 ##### Especificação de Requisitos
 - Compreender o contexto 
@@ -122,18 +123,21 @@ markmap: {}
 #### Arquitetura de Sistemas
 ##### Tipos de Arquitetura de Software
 - Monolitica
-- Em camadas
+- n-tier (multicamadas)
 - Orientada a Eventos
 - Microservices
 - Serverless
 - Space Based
 - Micro Kernel
+- Orientada a Serviços(SOA)
 ##### Padrões Arquiteturais
-- MVC
+- MVC (Model View Controller)
+  - MVVM (Model View ViewModel)
+  - MVP (Model View Presenter)
 - Clean Architecture
 - Hexagonal Architecture
 - Onion Architecture
-#### Tecnicas e Principios arquiteturais
+##### Tecnicas e Principios arquiteturais
 - DDD : Domain-Driven Design
   - Modelo de Dominio
   - Design Tático
@@ -144,19 +148,59 @@ markmap: {}
   - Fabricas
   - Serviço de Domínio
 - TOGAF (The Open Group Architecture Framework)
-  - Arquitetura de Empresa
+  - Arquitetura Empresarial
   - Metodologia ADM (Architecture Development Method)
-  - 
+  - Modelos de Referência
+  - Governança da Arquitetura
 - SOLID
   - SRP - Princípio da Responsabilidade Única
   - OCP - Princípio Aberto-Fechado
   - LSP - Princípio da Substituição de Liskov
   - ISP - Princípio da Segregação de Interface
   - DIP - Princípio da Inversão de Dependência
+- Design Patterns GoF ('Gang of Four')
+  - Estruturais
+    - Adapter
+    - Bridge
+    - Composite
+    - Decorator
+    - Facade
+    - Flyweight
+    - Proxy
+    - Business Delegate
+  - Comportamentais
+    - Chain of Responsibility
+    - Command
+    - Interpreter
+    - Iterator
+    - Mediator
+    - Memento
+    - Observer
+    - State
+    - Strategy
+    - Template Method
+    - Visitor
+  - Interação/Criação
+    - Abstract Factory
+    - Builder
+    - Factory Method
+    - Singleton
+    - Prototype
+##### Termos arquiteturais
+ - Sistemas
+ - Modulos
+ - Componentes
+ - Interfaces
+ - Conexões
+ - Relacionamentos
+##### Abordagens de definição de arquitetura
+- Top-Down
+- Botton-Up
+- Greenfield
+- Brownfield
+- Greyfield
 #### Desenvolvimento de Software
 ##### Linguagens de Programação
-- Pascal
-- Visual Basic
 - C#
 - C, C++
 - Informix-4gl
