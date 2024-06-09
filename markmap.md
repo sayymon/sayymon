@@ -5,10 +5,10 @@ saymon:
 markmap: {}
 ---
 
-## Sobre mim
+## Sobre mim <!-- markmap: fold -->
 - Cidade natal : Guarulhos - SP
 - Nascido em 11/12/1992 
-- Caracteristicas Físicas <!-- markmap: fold -->
+- Caracteristicas Físicas 
     - Altura : 1,80
     - Cor de Pele : Clara
     - Cabelos : Castanho escuro
@@ -18,17 +18,13 @@ markmap: {}
   - Assistir Videos aleatorios You Tube
   - Assistir Filmes e séries
   - Ir para a academia
-- Interesses <!-- markmap: fold -->
-  - Tecnologia
-  - Engenharia de Software
-  - Machine Learning / Inteligência Artificial
 - Familia <!-- markmap: fold -->
   - Esposa : Kelly Barros Pereira
   - 1ª Filha : Gabrielly Barros dos Santos
   - 2ª Filha : Nicolly Barros dos Santos
   - [Árvore genealogica](https://www.familysearch.org/tree/pedigree/landscape/GRTK-423)
 
-## Formação Acadêmica
+## Formação Acadêmica <!-- markmap: fold -->
   - [Pré-escola : Margarida Maria (1996 - 1999)](https://github.com/sayymon/sayymon/wiki/Pr%C3%A9%E2%80%90Escola)
   - [Ensino Fundamental: E.E Zilda Romeiro Pinto Moreira da Silva - (2000 - 2007)](https://github.com/sayymon/sayymon/wiki/Ensino-Fundamental)
   - [Ensino Médio: E.E Antônio Pratici - (2008 - 2010)](https://github.com/sayymon/sayymon/wiki/Ensino-M%C3%A9dio)
@@ -39,7 +35,7 @@ markmap: {}
     - [Engenharia de Software : FIAP (2016 - 2018)](https://github.com/sayymon/sayymon/wiki/P%C3%B3s-Gradua%C3%A7%C3%B5es#engenharia-de-software)
     - [Arquitetura de Software : UNICIV (2021 - 2022)](https://github.com/sayymon/sayymon/wiki/P%C3%B3s-Gradua%C3%A7%C3%B5es#arquitetura-de-software-2)
 
-## Experiência Profissional
+## Experiência Profissional <!-- markmap: fold -->
 ### [Telemensagem Toque de Corações (2002 - 2005)](https://github.com/sayymon/sayymon/wiki/Experiencia_Profissional#telemensagem-toque-de-cora%C3%A7%C3%B5es-2002---2005)
 ### [Antonio Obras (2006-2007)](https://github.com/sayymon/sayymon/wiki/Experiencia_Profissional#antonio-obras-2006-2007)
 ### [Dutra Maquinas (2008-2010)](https://github.com/sayymon/sayymon/wiki/Experiencia_Profissional#dutra-maquinas-2008-2010)
@@ -56,8 +52,7 @@ markmap: {}
   - [API Foundation](https://github.com/sayymon/sayymon/wiki/Experiencia_Profissional#api-foundation)
   - [Foundation Components](https://github.com/sayymon/sayymon/wiki/Experiencia_Profissional#foundation-components)
 
-## Conhecimentos
-
+## Conhecimentos <!-- markmap: fold -->
 ### Engenharia de Software
 #### Engenharia de Requisitos
 ##### Modelagem de Requisitos
@@ -125,6 +120,39 @@ markmap: {}
   - Sprint Retrospective
 
 #### Arquitetura de Sistemas
+##### Tipos de Arquitetura de Software
+- Monolitica
+- Em camadas
+- Orientada a Eventos
+- Microservices
+- Serverless
+- Space Based
+- Micro Kernel
+##### Padrões Arquiteturais
+- MVC
+- Clean Architecture
+- Hexagonal Architecture
+- Onion Architecture
+#### Tecnicas e Principios arquiteturais
+- DDD : Domain-Driven Design
+  - Modelo de Dominio
+  - Design Tático
+  - Linguagem Ubíqua
+  - Entidade
+  - Objetos de Valor (VO)
+  - Repositórios
+  - Fabricas
+  - Serviço de Domínio
+- TOGAF (The Open Group Architecture Framework)
+  - Arquitetura de Empresa
+  - Metodologia ADM (Architecture Development Method)
+  - 
+- SOLID
+  - SRP - Princípio da Responsabilidade Única
+  - OCP - Princípio Aberto-Fechado
+  - LSP - Princípio da Substituição de Liskov
+  - ISP - Princípio da Segregação de Interface
+  - DIP - Princípio da Inversão de Dependência
 #### Desenvolvimento de Software
 ##### Linguagens de Programação
 - Pascal
