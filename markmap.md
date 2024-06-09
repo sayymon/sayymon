@@ -41,7 +41,90 @@ markmap: {}
 
 ## Conhecimentos
 
-Note that if blocks and lists appear at the same level, the lists will be ignored.
+### Engenharia de Software
+#### Engenharia de Requisitos
+##### Modelagem de Negócios
+#### Arquitetura de Sistemas
+#### Desenvolvimento de Software
+##### Linguagens de Programação
+- Pascal
+- Visual Basic
+- C#
+- C, C++
+- Informix-4gl
+- Java
+##### Linguagens de Marcação
+- HTML/XHTML
+- XSD/XML
+- Markdown
+##### Linguagens para serialização de Dados
+- JSON
+- YML
+- XML
+- BSON
+##### Estilização
+- CSS
+- SCSS
+##### Algoritmos
+- Busca
+  - Binaria
+  - Profundidade
+  - Em Largura
+- Ordenação
+  - Seleção
+  - Inserção
+  - Bolha(Bubble Sort)
+  - Quicksort
+- Estruturas de Dados
+  - Arrays(Vetores)
+  - Linked Lists(Listas Ligadas)
+  - Stacks(Pilhas)
+  - Queues(Filas)
+  - Trees (Arvores)
+  - Grafos
+  - Mapas(Hash Tables)
+- Recursão
+- Grafo
+  - Dijkstra
+  - Bellman-Ford
+- Criptografia
+  - Simétrica
+  - Assimétrica
+  - Por funções Hash
+  - Elíptica
+  - Homomórfica
+- Compressão
+- Descompressão
+
+##### Versionamento
+##### Bancos de Dados
+##### Frameworks e Bibliotecas
+##### IDE's
+- Eclipse
+- NetBeans
+- InteliJ
+- VSCode
+##### Ferramentas
+#### Metodologias de Projeto de Software
+#### Qualidade de Software
+### Tecnologia
+#### Computadores
+##### Hardware
+##### Software
+###### Sistemas Operacionais
+- Linux
+- Windows
+- MacOs
+#### Mobile(Celulares e Tablets)
+#### Computação em Nuvem
+##### AWS
+##### GCP
+##### Azure
+#### Inteligencia Artificial
+### Ciências Exatas e Naturais
+### Ciências Humanas
+### Ciências Sociais Aplicadas
+### Desenvolvimento Pessoal
 
 ## Experiência Profissional
 ### [Telemensagem Toque de Corações (2002 - 2005)](https://github.com/sayymon/sayymon/wiki/Experiencia_Profissional#telemensagem-toque-de-cora%C3%A7%C3%B5es-2002---2005)
