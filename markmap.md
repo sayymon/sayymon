@@ -54,7 +54,7 @@ markmap: {}
 
 ## Conhecimentos <!-- markmap: fold -->
 ### Engenharia de Software
-#### Engenharia de Requisitos
+#### Engenharia de Requisitos<!-- markmap: fold -->
 ##### Modelagem de Requisitos
 - UML (Linguagem de Modelagem Unificada)
   - Elementos
@@ -120,7 +120,7 @@ markmap: {}
   - Sprint Review
   - Sprint Retrospective
 
-#### Arquitetura de Sistemas
+#### Arquitetura de Sistemas<!-- markmap: fold -->
 ##### Tipos de Arquitetura de Software
 - Monolitica
 - n-tier (multicamadas)
@@ -199,12 +199,65 @@ markmap: {}
 - Greenfield
 - Brownfield
 - Greyfield
-#### Desenvolvimento de Software
+#### Desenvolvimento de Software <!-- markmap: fold -->
 ##### Linguagens de Programação
-- C#
-- C, C++
-- Informix-4gl
-- Java
+###### Java <!-- markmap: fold -->
+- Paradigmas
+  - Orientação a Objetos (OO)
+    - Encapsulamento
+    - Herança
+    - Composição
+    - Polimorfismo
+    - Associação
+  - Funcional
+  - Reativo
+  - Procedural
+- Versões
+  - 7
+    - Enums
+    - Try-with-resources
+    - Closures
+    - Diamond operator
+  - 8
+    - Streams
+    - lambda expressions
+    - functional interfaces
+    - Default method
+  - 9
+    - jakarta
+  - 11 
+    - Local-date
+    - var keyword
+- Frameworks
+  - Spring
+    - Initializr
+    - Boot
+    - Data
+    - Cloud
+    - Security
+    - Hateoas
+    - Batch
+  - Quarkus
+  - Micronaut
+  - JPA
+    - Hibernate
+  - JDBC
+  - Junit
+  - TestNG
+- Libs
+  - Lombok
+  - Feign
+  - Liquibase
+  - ModelMapper
+- Gerenciadores de Dependências
+  - Maven
+  - Gradle
+###### Kotlin
+###### Python
+###### Informix-4gl
+###### Go
+###### Javascript
+- Typescript 
 ##### Linguagens de Marcação
 - HTML/XHTML
 - XSD/XML
@@ -217,7 +270,7 @@ markmap: {}
 ##### Estilização
 - CSS
 - SCSS
-##### Algoritmos
+##### Algoritmos <!-- markmap: fold -->
 - Busca
   - Binaria
   - Profundidade
@@ -289,8 +342,8 @@ markmap: {}
 - InteliJ
 - VSCode
 ##### Ferramentas
-#### Metodologias de Projeto de Software
-#### Qualidade de Software
+#### Metodologias de Projeto de Software<!-- markmap: fold -->
+#### Qualidade de Software<!-- markmap: fold -->
 ### Tecnologia
 #### Computadores
 ##### Hardware
