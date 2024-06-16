@@ -587,7 +587,46 @@ markmap: {}
   - JWT.io
   - Regex101
   - W3c
-#### Metodologias de Projeto de Software <!-- markmap: fold -->
+#### Metodologias de Desenvolvimento de Software <!-- markmap: fold -->
+- Tradicionais
+  - Cascata(Waterfall)
+    - Definição de Requisitos
+    - Análise
+    - Design
+    - Desenvolvimento
+    - Testes
+    - Implantação
+    - Manutenção
+  - Iterativo Incremental
+    - Prototipagem
+    - Desenvolvimento por fases
+    - Feedback contínuo do usuário
+    - Refinamento incremental do produto
+  - Spiral
+    - Análise de riscos
+    - Prototipagem
+    - Iterações de desenvolvimento
+- Ágeis
+  - Scrum
+    - Product Backlog
+    - Sprint Backlog
+    - Sprint Planning
+    - Daily Standup
+    - Sprint Review
+    - Sprint Retrospective
+  - Kanban
+    - Quadro Kanban (kanban board)
+    - Limitação de trabalho em progresso (WIP - Work In Progress)
+    - Fluxo contínuo de tarefas
+    - Melhoria contínua
+- Técnicas de Otimização
+  - Lean
+    - Eliminação de desperdícios (Muda)
+    - Entrega rápida de valor
+    - Melhoria contínua (Kaizen)
+    - Fluxo contínuo (Just-in-Time)
+  - INVEST
+    
 #### Qualidade de Software <!-- markmap: fold -->
 ### Tecnologia
 #### Computadores
