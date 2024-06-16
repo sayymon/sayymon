@@ -204,11 +204,6 @@ markmap: {}
 ###### Java <!-- markmap: fold -->
 - Paradigmas
   - Orientação a Objetos (OO)
-    - Encapsulamento
-    - Herança
-    - Composição
-    - Polimorfismo
-    - Associação
   - Funcional
   - Reativo
   - Procedural
@@ -252,12 +247,72 @@ markmap: {}
 - Gerenciadores de Dependências
   - Maven
   - Gradle
-###### Kotlin
+###### Kotlin <!-- markmap: fold -->
+- Paradigma
+  - Orientação a Objetos (OO)
+  - Programação Funcional
+- Versões
+  - Kotlin 1.0 (Fevereiro de 2016)
+    - Lançamento Inicial
+    - Interoperabilidade com Java
+  - 1.1 (Março de 2017)
+    - Coroutines Experimentais
+    - Type Aliases
+    - Bound Callable References
+  - 1.2 (Novembro de 2017)
+    - Multiplatform Projects
+    - Shared Code
+    - Inline Classes
+  - 1.3 (Outubro de 2018)
+    - Coroutines Estáveis
+    - Kotlin/Native
+    - Contracts
+  - 1.4 (Agosto de 2020)
+    - Melhorias na Sintaxe
+    - Ferramentas de Performance
+    - Multiplatform Gradle DSL
+    - SAM Conversions for Kotlin Interfaces
+  - 1.5 (Maio de 2021)
+    - Inline Classes Estáveis
+    - Novos Tipos de Anotação
+    - Opt-in Requirements
+  - 1.6 (Novembro de 2021)
+    - Funções de Lembrete
+    - Coroutines com Prioridade
+    - Linguagem e Bibliotecas
+  - 1.7 e 1.8 (2022-2023)
+    - Desempenho
+    - Ferramentas de Desenvolvimento
+    - Interoperabilidade Melhorada  
+
+- Principais Recursos e Facilidades
+  - Sintaxe Concisa e Expressiva
+  - Null Safety
+  - Data Classes
+  - Extension Functions
+  - Coroutines
+  - Interoperabilidade com Java
+  - Smart Casts
+  - Default and Named Arguments
+- Princípios Fundamentais
+  - Safety
+  - Interoperabilidade com Java
+
 ###### Python
 ###### Informix-4gl
 ###### Go
 ###### Javascript
 - Typescript 
+##### Paradigmas de Programação
+  - Orientação a Objetos (OO)
+    - Encapsulamento
+    - Herança
+    - Composição
+    - Polimorfismo
+    - Associação
+  - Funcional
+  - Reativo
+  - Procedural
 ##### Linguagens de Marcação
 - HTML/XHTML
 - XSD/XML
