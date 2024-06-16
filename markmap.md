@@ -428,8 +428,8 @@ markmap: {}
       - `cvs commit`
       - `cvs add`
       - `cvs diff`
-      - `cvs log`     
-##### Bancos de Dados
+      - `cvs log`      
+##### Bancos de Dados <!-- markmap: fold -->
 - Relacionais
   - Principais conceitos
     - Tabelas
@@ -467,15 +467,128 @@ markmap: {}
     - DynamoDB
     - Redis
     - Neo4j
-##### Frameworks e Bibliotecas
-##### IDE's
-- Eclipse
-- NetBeans
-- InteliJ
-- VSCode
+##### DevOps
+- CI Integração Contínua
+  - Principais Ferramentas
+    - Jenkins
+    - Drone CI
+    - Github Actions
+    - AWS Code Pipeline
+    - Azure DevOps
+- CD Entrega Contínua
+  - Principais Ferramentas
+    - Jenkins
+    - Drone CI
+    - Github Actions
+    - AWS Code Pipeline
+    - Azure DevOps
+- Serviços de Infraestrutura
+  - IAC Infraestrutura como código
+    - Principais Ferramentas
+      - Terraform
+      - Ansible
+      - AWS CloudFormation
+  - Rede
+    - NGINX
+  - Balanceamento de Carga
+    - Amazon Elastic Load Balancer (ELB)
+  - Cache
+    - Redis
+    - EhCache
+    - Memcached
+    - Varnish
+  - Mensageria
+    - SQS
+    - SNS
+    - RabbitMQ
+    - Kafka
+    - ActiveMQ
+  - Armazenamento
+    - AWS S3
+- Containers
+  - Docker
+  - Kubernates
+- Monitoramento
+  - Prometheus
+  - Grafana
+  - ELK Stack (Elasticsearch, Logstash, Kibana)
+  - New Relic
+  - APP Dynamics
+##### Segurança
+- Principios
+  - Autenticação
+  - Autorização
+    - RBAC
+    - ABAC
+    - ACL
+  - Menor Previlégio
+  - MFA (Multi-Factor Authentication)
+    - 2FA
+- Listas de Vulnerabilidades
+  - OWASP
+  - CWE
+- Segurança no desenvolvimento
+  - Sonar
+  - Linters
+  - JWT
+  - LDAP
+  - TLS/SSL
+
 ##### Ferramentas
-#### Metodologias de Projeto de Software<!-- markmap: fold -->
-#### Qualidade de Software<!-- markmap: fold -->
+- Editor de Texto
+  - Vim/VI
+  - Notepad++
+  - Sublime
+  - Ultra Edit
+- Terminal
+  - CMD(Windows)
+  - Bash(Baseados em Unix)
+  - Zsh(Linux/Mac)
+- Gestão de Pacotes e Ambientes Virtuais
+  - pip
+  - npm
+  - Homebrew
+- Gerenciamento de Kubernetes
+  - k9s
+  - kubectl
+- Cloud
+  - AWS CLI
+- IDE's
+  - Eclipse
+  - NetBeans
+  - InteliJ
+  - VSCode
+  - Cloud 9
+- Iteração com API's
+  - Postman
+  - Insomnia
+  - Documentação
+    - Swagger/OpenAPI
+- Bancos de Dados e Ferramentas de Query
+  - DBeaver
+  - MySQL Workbench
+  - Mongo Compass
+  - Robo3t
+- Inteligencia Artificial
+  - Copilots
+    - AWS CodeWhisperer
+    - Github Copilot
+  - LLMs
+    - ChatGPT
+    - Gemini
+    - Microsoft Copilot
+- Segurança
+  - SonarQube
+  - Burp Suite
+  - OWASP ZAP
+  - JWT.io
+- Sites úteis
+  - StackOverflow
+  - JWT.io
+  - Regex101
+  - W3c
+#### Metodologias de Projeto de Software <!-- markmap: fold -->
+#### Qualidade de Software <!-- markmap: fold -->
 ### Tecnologia
 #### Computadores
 ##### Hardware
