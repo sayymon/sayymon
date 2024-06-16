@@ -158,6 +158,7 @@ markmap: {}
   - LSP - Princípio da Substituição de Liskov
   - ISP - Princípio da Segregação de Interface
   - DIP - Princípio da Inversão de Dependência
+- UMD - Unified Archtecture Method
 - Design Patterns GoF ('Gang of Four')
   - Estruturais
     - Adapter
@@ -626,8 +627,166 @@ markmap: {}
     - Melhoria contínua (Kaizen)
     - Fluxo contínuo (Just-in-Time)
   - INVEST
-    
+#### Tipos de Demanda de Software <!-- markmap: fold -->
+  - Novo Projeto
+  - Evolução
+  - Melhorias Técnicas
+  - Correção de Defeitos
+  - Atualizações de Versões
+  - Descontinuação
 #### Qualidade de Software <!-- markmap: fold -->
+##### Qualidade dos Requisitos
+- Conceitos e Princípios
+  - Clareza e Precisão
+  - Completude
+  - Consistencia
+  - Viabilidade
+  - Rastreabilidade
+  - Testabilidade
+- Práticas  
+  - Refinamento de Requisitos
+  - DOR(Definition of Ready)
+  - DOD(Definition of Done)
+  - Priorização de requisitos
+  - Mapeamento de dependências
+  - Mapeamento de riscos
+  - Gerenciamento dos Requisitos
+##### Qualidade Arquitetural
+- Conceitos e Principios
+  - Design Arquitetural do Software
+    - Modularidade
+    - Flexibilidade
+    - Reusabilidade
+  - Contexto e dominio
+    - Capacidade de implementação
+    - Alinhamento com objetivos de negócio
+  - Conformidade com Padrões e Normas
+    - Normas 
+      - ISO/IEC 25010 (SQuaRE)
+    - Licenças 
+      - Open Source
+        - GPL (General Public License)
+        - MIT License
+        - Apache License
+      - Comerciais
+- Práticas
+  - Arquitetura de Referência
+  - Verificação de Dependências
+  - Testes de Arquitetura
+    - Testes de Conformidade Arquitetural
+    - Testes de Tolerância a Falhas
+    - Testes de Contrato
+  - Golden Path
+  - POCs
+  - Analise SWOT
+  - Analise de Prioridade AHP
+    
+##### Qualidade de Código
+  - Conceitos e Principios
+    - Clean Code
+      - Nomeação Significativa (Meaningful Names)
+      - Funções Pequenas (Small Functions)
+      - Comentários Adequados (Comments)
+      - Funções com Apenas um Nível de Abstração (One Level of Abstraction per Function)
+      - Código Livre de Efeitos Colaterais (No Side Effects)
+      - Classes e Métodos Coesos (Cohesion)
+      - Classes e Métodos com Acoplamento Baixo (Low Coupling)
+      - Prefira a Simplicidade (Keep It Simple and Stupid - KISS)
+      - Você não precisa disso (You Aren't Gonna Need It - YAGNI)
+      - Testabilidade (Testability)
+    - SOLID
+    - Design Patterns (Padrões de Projeto)
+  - Práticas
+    - Testes Automatizados
+      - Unidade
+        - Basic
+        - Parametrized
+        - Interaction Units
+      - Integração
+        - Components
+        - Systems
+        - Resources
+    - Análise Estática de Código
+    - Revisões de Código (Code Reviews)
+    - Refatoração (Refactoring)
+    - CI/CD
+  - Métricas de Qualidade de Código
+    - Code Coverage
+    - Code Smells
+##### Qualidade Funcional
+- Conceitos e Princípios
+  - Confiabilidade
+  - Eficiência
+  - Usabilidade
+- Práticas
+  - Testes Funcionais
+    - Testes Manuais
+      - Testes de Aceitação do Usuário (UAT - User Acceptance Testing)
+      - Testes Exploratórios
+        - Smoke
+      - Testes de Usabilidade
+      - Testes Regressivos
+      - Testes de Compatibilidade
+      - Testes de Desempenho Manual
+      - Teste de Segurança Manual
+    - Testes Funcionais
+      - Testes de Interface do Usuário (UI)
+        - Usabilidade
+        - Responsividade
+        - Acessibilidade
+      - Testes de Comportamento(BDD)
+        - Usuário (User Behaviour Tests)
+        - Entre interfaces de aplicações (API Behaviour Tests)
+      - Testes de Aceitação(ATDD)
+        - Funcional (Functional Acceptance Tests)
+        - Comunicação/Integração (Integration Acceptance Tests)
+        - Regressão (Regression Acceptance Tests)
+        - Autenticação e Autorização (Security Acceptance Tests)
+        - Internacionalização (Internationalization Acceptance Tests)
+  - Gestão de Mudanças (GMUD)
+##### Qualidade Não Funcional
+- Conceitos e Princípios
+  - Custos
+  - Escalabilidade
+  - Desempenho
+  - Manutenibilidade
+  - Portabilidade
+  - Segurança
+    - Regulamentações de Privacidade e Proteção de Dados
+      - LGPD (Lei Geral de Proteção de Dados - Brasil)
+      - GDPR (General Data Protection Regulation - União Europeia)
+      - CCPA (California Consumer Privacy Act - EUA)
+    - Padrões de Segurança da Informação
+      - ISO/IEC 27001
+      - NIST (National Institute of Standards and Technology)
+      - PCI DSS (Payment Card Industry Data Security Standard)
+- Práticas
+  - Estimativas de Custo
+    - COCOMO (COnstructive COst MOdel)
+    - PERT (Program Evaluation and Review Technique)
+  - Orçamentação e Planejamento
+  - Monitoramento de Custos
+  - Definir e metrificar escalabilidade
+  - Testes de Performance
+    - Testes de Carga (Load Testing)
+    - Testes de Stress (Stress Testing)
+    - Testes de Duração (Endurance Testing)
+    - Testes de Volume (Volume testing)
+    - Testes de Pico (Peak test)
+    - Testes de Escalabilidade (Scalability Testing)
+  - Testes de Segurança
+    - Análise estática do código(SAST)
+    - Varredura dinâmica de vulnerabilidades(DAST)
+    - Interação exploratória de vulnerabilidades(IAST)
+    - Autenticação e Autorização indevida (Pen Tests)
+    - Autenticação e Autorização indevida (Pen Tests)
+    - Injeção conteúdo malicioso nas entradas do sistema (Injection Tests)
+    - Exploração de erros logs (Fuzz Testing)
+    - Identificar gargalos na Resiliência e Escalabilidade (DDoS Tests)
+    - IAST (Interactive Application Security Testing)
+    - Testes de Invasão (Penetration Testing)
+
+
 ### Tecnologia
 #### Computadores
 ##### Hardware
