@@ -430,6 +430,43 @@ markmap: {}
       - `cvs diff`
       - `cvs log`     
 ##### Bancos de Dados
+- Relacionais
+  - Principais conceitos
+    - Tabelas
+    - Colunas
+    - Primary Key
+    - Indices
+    - Foreing Keys
+    - DML (Data Manipulation Language)
+      - SQL
+        - insert
+        - select
+        - update
+        - delete
+    - DDL (Data Definition Language)
+      - create
+      - alter
+      - frop
+      - truncate
+    - ACID
+    - Procedures
+    - Trigers
+  - Principais Bancos
+    - Oracle
+    - Mysql
+    - PostgreSQL
+    - SQL Server
+    - RedShift
+- Não Relacionais (NoSql)
+  - Principais Conceitos
+    - Orientado a Documentos
+    - Chave Valor
+    - Graph
+  - Principais Bancos
+    - MongoDB
+    - DynamoDB
+    - Redis
+    - Neo4j
 ##### Frameworks e Bibliotecas
 ##### IDE's
 - Eclipse
