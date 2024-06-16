@@ -388,7 +388,47 @@ markmap: {}
     - Bancos de Dados
     - Sistemas Embarcados
     - Aplicativos Móveis
-##### Versionamento
+##### Versionamento <!-- markmap: fold -->
+- Conceitos
+  - Controle de Versão
+  - Repositório
+  - Commit
+  - Branch
+  - Merge
+  - Tag
+  - Fork
+  - Clone
+  - Pull Request (PR)
+  - Diff
+  - Conflict
+- Ferramentas Principais
+  - Git
+    - Implementações
+      - **GitHub**: Plataforma de hospedagem de repositórios Git.
+      - **GitLab**: Plataforma de hospedagem com foco em DevOps.
+      - **Bitbucket**: Serviço de hospedagem de repositórios Git e Mercurial.
+      - **AWS Code Commit**: Serviço de hospedagem de repositórios da AWS.
+    - Principais comandos
+      - `git init`
+      - `git clone`
+      - `git add`
+      - `git commit`
+      - `git status`
+      - `git diff`
+      - `git branch`
+      - `git checkout`
+      - `git merge`
+      - `git pull`
+      - `git push`
+      - `git tag`
+  - CVS (Concurrent Versions System)
+    - Principais Comandos
+      - `cvs checkout`
+      - `cvs update`
+      - `cvs commit`
+      - `cvs add`
+      - `cvs diff`
+      - `cvs log`     
 ##### Bancos de Dados
 ##### Frameworks e Bibliotecas
 ##### IDE's
