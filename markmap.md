@@ -23,7 +23,7 @@ markmap: {}
   - 1ª Filha : Gabrielly Barros dos Santos
   - 2ª Filha : Nicolly Barros dos Santos
   - [Árvore genealogica](https://www.familysearch.org/tree/pedigree/landscape/GRTK-423)
-
+- [Lugares](https://sayymon.github.io/sayymon/lugares.html)
 ## Formação Acadêmica <!-- markmap: fold -->
   - [Pré-escola : Margarida Maria (1996 - 1999)](https://github.com/sayymon/sayymon/wiki/Pr%C3%A9%E2%80%90Escola)
   - [Ensino Fundamental: E.E Zilda Romeiro Pinto Moreira da Silva - (2000 - 2007)](https://github.com/sayymon/sayymon/wiki/Ensino-Fundamental)
