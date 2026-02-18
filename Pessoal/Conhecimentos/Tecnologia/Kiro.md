@@ -1,0 +1,8 @@
+
+kiro_mcp
+
+squ_daf47b4e95fd0ba67f0deecfeaad09c6ada33e89
+
+kiro_lead_enricher
+
+sqp_11ee2593a7bf8a6aca7b7d0caf55d5376d1de168

@@ -1,0 +1,29 @@
+[
+  {
+    "nome": "João Silva",
+    "data_nascimento": "15/03/1990",
+    "tipo": "Amigo",
+    "como_conheceu": "Faculdade de Engenharia em 2010",
+    "instagram": "@joaosilva",
+    "facebook": "João Silva",
+    "interesses": ["Tecnologia", "Música", "Futebol"]
+  },
+  {
+    "nome": "Maria Santos",
+    "data_nascimento": "22/07/1988",
+    "tipo": "Família",
+    "como_conheceu": "Prima",
+    "instagram": "@mariasantos",
+    "facebook": "Maria Santos",
+    "interesses": ["Culinária", "Viagens", "Fotografia"]
+  },
+  {
+    "nome": "Pedro Oliveira",
+    "data_nascimento": "10/11/1995",
+    "tipo": "Colega",
+    "como_conheceu": "Trabalho na Hotmart",
+    "instagram": "@pedrooliveira",
+    "facebook": "Pedro Oliveira",
+    "interesses": ["Programação", "Games", "Café"]
+  }
+]

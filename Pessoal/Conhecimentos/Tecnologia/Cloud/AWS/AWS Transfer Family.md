@@ -1,0 +1,2 @@
+
+O AWS Transfer Family é uma solução de transferência de arquivos totalmente gerenciada que permite aos clientes transferir facilmente arquivos para e do Amazon S3 usando o protocolo [[FTP]] (File Transfer Protocol), [[FTPS]] (FTP Secure) e [[SFTP]] (SSH File Transfer Protocol). Ele fornece uma maneira simples e segura de transferir arquivos, com recursos como monitoramento, logging e integração com serviços da AWS.

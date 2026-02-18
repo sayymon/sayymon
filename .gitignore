@@ -1,0 +1,33 @@
+# Arquivos sensíveis
+sensitive-data.md
+credentials.md
+passwords.md
+secrets.md
+
+# Variáveis de ambiente
+.env
+.env.local
+.env.*.local
+
+# Configurações com credenciais
+config.json
+**/config.json
+
+# Arquivos do sistema
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Obsidian workspace (opcional - contém estado da UI)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

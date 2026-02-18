@@ -1,0 +1,13 @@
+
+[[Amazon Comprehend]]
+[[Amazon Polly]]
+[[Amazon Forecast]]
+[[Amazon Fraud Detector]]
+[[Amazon Kendra]]
+[[Amazon Lex]]
+[[Amazon Rekognition]]
+[[Amazon SageMaker]]
+[[Amazon Textract]]
+[[Amazon Transcribe]]
+[[Amazon Translate]]
+[[Amazon Q]]
