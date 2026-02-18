@@ -1,0 +1,87 @@
+<html>
+    <div id="map" style="height: 800px;"></div>
+    <script>
+    function initMap() {
+        
+        const places = [
+            { 
+                name: "Guarulhos,SP", 
+                lat: -23.462695477379896, 
+                lng: -46.50629029807049, 
+                date_visited: "Dezembro de 1992",
+                curiosities: "Cidade onde nasci, cresci, construi a minha familia",
+                link: "https://pt.wikipedia.org/wiki/Guarulhos"
+            },
+            { 
+                name: "Paranapiacaba, Santo André - SP", 
+                lat: -23.777487432941832, 
+                lng: -46.300503912211525, 
+                date_visited: "Janeiro de 2016",
+                curiosities: "Passeio incrivel com a minha esposa Kelly, e a Gaby já estava lá na barriguinha dela. A amiga da Kelly Lais, Mateus e Francisca estavam lá com a gente, a cidade muito impressionante com as ferrovias a neblina experiencia inesquecivel",
+                link: "https://photos.app.goo.gl/2t3xE5XddC9UrAh69"
+            },            
+            { 
+                name: "Pomerode, SC", 
+                lat: -26.737527436537334, 
+                lng: -49.172833612775186, 
+                date_visited: "Dezembro de 2020",
+                curiosities: "Em Pomerode fui com a minha familia. Conheci o parque dos dinossauros com as minhas filhas e comi comidas tipicas alemãs",
+                link: "https://photos.app.goo.gl/WNTYgK7j8zsL7iaR9"
+            },
+            { 
+                name: "Caldas Novas, GO", 
+                lat: -17.745838290931363, 
+                lng: -48.62453074086128, 
+                date_visited: "Setembro de 2017 e Agosto de 2021",
+                curiosities: "Muito bom Caldas novas fiz uma das primeiras viagens com a Gaby minha filha mais velha, e depois em 2021 retornamos com a Nick. Comer Pequi, os sorvetes lá diferentes as águas termais muito bom",
+                link: "https://photos.app.goo.gl/6RgyHqsz1cCDSc2Q7"
+            },
+            { 
+                name: "Belo Horizonte, MG", 
+                lat: -19.919805699081795, 
+                lng: -43.945857234162446, 
+                date_visited: "junho de 2022, Dez 2023, Jun 2024",
+                curiosities: "BH se tornou um lugar do qual eu fui para encontrar meus colegas de trabalho na Sede da Hotmart, por algumas vezes fui inclusive com a minha familia para conhecer lugares incriveis e históricos",
+                link: "https://photos.app.goo.gl/oQqoRKGVC9ER6htL9"
+            },
+            { 
+                name: "Beto Carreiro World", 
+                lat: -26.799696577481576, 
+                lng: -48.61289561323651, 
+                date_visited: "Fevereiro e Dezembro de 2020",
+                curiosities: "Adoro ir ao Beto carreiro, o parque sempre me proporciona grandes emoções.Adoro adrenalina. O Elevador e a montanha russa Samurai são os meus preferidos",
+                link: "https://photos.app.goo.gl/AxAhG5BDpnmvPRhC7"
+            },
+        ];
+
+        const map = new google.maps.Map(document.getElementById("map"), {
+            zoom: 4,
+            center: { lat: -23.462695477379896, lng: -46.50629029807049 },
+        });
+
+        places.forEach(place => {
+            const marker = new google.maps.Marker({
+                position: { lat: place.lat, lng: place.lng },
+                map,
+                title: place.name
+            });
+
+            const infowindow = new google.maps.InfoWindow({
+                content: `
+                <div>
+                    <h2>${place.name}</h2>
+                    <p><strong>Data:</strong> ${place.date_visited}</p>
+                    <p><strong>Curiosidades:</strong> ${place.curiosities}</p>
+                    <p><a href="${place.link}" target="_blank">Algumas Fotos e Videos</a></p>
+                </div>
+                `
+            });
+
+            marker.addListener("click", () => {
+                infowindow.open(map, marker);
+            });
+        });
+    }
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCEnICgTJSXgbDWisl3yh249ckxQd93hsk&callback=initMap" async defer></script>
+</html>
