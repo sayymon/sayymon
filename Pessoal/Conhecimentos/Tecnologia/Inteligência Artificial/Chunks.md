@@ -1,3 +1,0 @@
-São divisões dos textos para compor os [[Embeddings]] e otimizam demais o processo de armazenamento em [[Vector DB]] para uso em conjunto a arquitetura [[RAG]] interagindo com [[LLMs]] no contexto de [[Inteligencia Artificial]].
-
-Exemplo um paragrafo de um texto pode ser um chunk ou até mesmo uma linha de um texto pode ser o chunk quando extraido de documentos para serem utilizados para compor embeddings, depende do tipo de estratégia utilizada para agrupar os dados nos chunks

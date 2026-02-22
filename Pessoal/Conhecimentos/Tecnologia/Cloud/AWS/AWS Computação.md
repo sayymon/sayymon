@@ -1,6 +1,0 @@
-[[Amazon Elastic Container Service (ECS)]]
-[[Amazon Elastic Kubernetes Service (EKS)]]
-[[AWS Lambda]]
-[[AWS Fargate]]
-[[Amazon EC2]]
-[[Amazon Batch]]

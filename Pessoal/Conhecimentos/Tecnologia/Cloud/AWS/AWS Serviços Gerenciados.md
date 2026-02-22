@@ -1,7 +1,0 @@
-[[AWS API Gateway]]
-[[AWS X-Ray]]
-[[AWS Management Services]]
-[[Amazon RDS Proxy]]
-[[Amazon ElastiCache]]
-[[AWS Transfer Family]]
-[[Amazon CloudWatch]]

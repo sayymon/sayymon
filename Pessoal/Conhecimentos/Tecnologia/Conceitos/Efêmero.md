@@ -1,2 +1,0 @@
-
-De baixa duração

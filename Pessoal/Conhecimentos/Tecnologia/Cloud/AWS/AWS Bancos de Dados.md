@@ -1,7 +1,0 @@
-[[Amazon Aurora]]
-[[Amazon DynamoDB]]
-[[Amazon DocumentDB]]
-[[Amazon Neptune]]
-[[Amazon Timestream]]
-[[Amazon Redshift]]
-[[Amazon Relational Database Service (RDS)]]

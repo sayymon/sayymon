@@ -1,7 +1,0 @@
-[[Amazon Lightsail]]
-[[AWS CloudFormation]]
-[[AWS CodeDeploy]]
-[[AWS CodePipeline]]
-[[AWS OpsWorks]]
-[[AWS Config]]
-[[AWS Elastic Beanstalk]]

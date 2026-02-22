@@ -1,7 +1,0 @@
-
-Fazer afirmacao falsa 
-
-
-
-
-

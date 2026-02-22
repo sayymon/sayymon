@@ -1,1 +1,0 @@
-[[Realizar atividades em grupo]]
